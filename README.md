@@ -3,7 +3,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [chat app](https://github.com/saleem-15/chat-app)
+- 🔭 I’m currently working on [instagram clone](https://github.com/saleem-15/instagram_clone)
 
 - 💬 Ask me about **Flutter and firebase**
 
