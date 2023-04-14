@@ -6,9 +6,14 @@
 
 - [Chatting app](https://github.com/saleem-15/whatsapp_clone)
 - [instagram_clone](https://github.com/saleem-15/instagram_clone)
-- [weather_app](https://github.com/saleem-15/weather_app)
 - [e-commerce](https://github.com/saleem-15/Online-Shop)
+- [weather_app](https://github.com/saleem-15/weather_app)
 - [simple translation app](https://github.com/saleem-15/translation_app)
+- [password-manager](https://github.com/saleem-15/password-manager)
+- [University](https://github.com/saleem-15/University-V1.0)
+
+
+
 
 - 🔭 I’m currently working on [whatsapp_clone](https://github.com/saleem-15/whatsapp_clone)
 
