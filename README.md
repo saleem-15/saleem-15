@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, Gaza Sky Geeks Team</h1>
+<h1 align="center">Hi 👋, Welcome to my Github</h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Flutter+developer;Software+engineering+student" alt="Typing SVG" /></a>
 </p>
 
-<h1>For Gaza Sky Geeks Team</h1>
+<h1>Some of my Work</h1>
 
 - [Chatting app](https://github.com/saleem-15/whatsapp_clone)
 - [instagram_clone](https://github.com/saleem-15/instagram_clone)
