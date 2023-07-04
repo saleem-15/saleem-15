@@ -2,21 +2,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Flutter+developer;Software+engineering+student" alt="Typing SVG" /></a>
 </p>
 
-<h1>Some of my Work</h1>
-
-- [Chatting app](https://github.com/saleem-15/whatsapp_clone)
-- [instagram_clone](https://github.com/saleem-15/instagram_clone)
-- [e-commerce](https://github.com/saleem-15/Online-Shop)
-- [weather_app](https://github.com/saleem-15/weather_app)
-- [simple translation app](https://github.com/saleem-15/translation_app)
-- [password-manager](https://github.com/saleem-15/password-manager)
-- [University](https://github.com/saleem-15/University-V1.0)
-- [Tic-Tac-Toe game](https://github.com/saleem-15/tic_tac_toe)
-
-
-
-<h1>For Gaza Sky Geeks Team</h1>
-
 
 
 - 🔭 I’m currently working on [whatsapp_clone](https://github.com/saleem-15/whatsapp_clone)
@@ -28,6 +13,19 @@
 - 🤓 Always learning new things.
 
 - 📫 How to reach me **saleemmahdi10@gmail.com**
+
+
+<h1>Some of my Work</h1>
+
+- [Chatting app](https://github.com/saleem-15/whatsapp_clone)
+- [instagram_clone](https://github.com/saleem-15/instagram_clone)
+- [e-commerce](https://github.com/saleem-15/Online-Shop)
+- [weather_app](https://github.com/saleem-15/weather_app)
+- [simple translation app](https://github.com/saleem-15/translation_app)
+- [password-manager](https://github.com/saleem-15/password-manager)
+- [University](https://github.com/saleem-15/University-V1.0)
+- [Tic-Tac-Toe game](https://github.com/saleem-15/tic_tac_toe)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
