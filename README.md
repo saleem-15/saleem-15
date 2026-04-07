@@ -27,6 +27,17 @@
 * 🔐 **[Password Manager](#)** - Biometric auth & local encryption.
 
 ---
+---
+
+<h3>📁 Technical Portfolio (Quick Links)</h3>
+<ul>
+  <li>📸 <b><a href="https://github.com/saleem-15/instagram-clone" target="_blank">Social Media Architecture</a></b> - High-load media caching & offline-first architecture (Isar).</li>
+  <li>💬 <b><a href="https://github.com/saleem-15/YOUR_WHATSAPP_REPO" target="_blank">Real-Time Messaging Engine</a></b> - Secure socket management & end-to-end state retention.</li>
+  <li>🛒 <b><a href="https://github.com/saleem-15/YOUR_ECOMMERCE_REPO" target="_blank">Scalable E-commerce App</a></b> - Complex cart state logic & secure checkout flows.</li>
+  <li>🔐 <b><a href="https://github.com/saleem-15/YOUR_PASSWORD_MGR_REPO" target="_blank">Local Password Manager</a></b> - Biometric auth & advanced local encryption.</li>
+</ul>
+
+---
 
 ### 📈 Development Velocity
 <p align="center">
