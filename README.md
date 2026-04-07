@@ -52,15 +52,15 @@ I am a Flutter Specialist with a B.Sc. in Software Engineering from Al-Azhar Uni
 
 <p align="center">
   <a href="https://github.com/salee">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=salee&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=saleem-15&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" />
   </a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salee/salee/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salee/salee/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salee/salee/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saleem-15/saleem-15/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saleem-15/saleem-15/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saleem-15/saleem-15/output/github-snake-dark.svg">
   </picture>
 </p>
 
@@ -80,10 +80,10 @@ When you partner with me for a freelance contract or full-time role, you are hir
 Available for high-impact freelance contracts and enterprise roles. 
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/saleem-mahdi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:saleemmahdi10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="YOUR_UPWORK_URL" target="_blank">
