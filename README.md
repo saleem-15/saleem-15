@@ -15,46 +15,50 @@
 
 ---
 
-### ⚡ TL;DR
-**Software Engineering graduate** delivering production-grade iOS & Android apps. Expert in **Offline-First Architecture**, **State Management (BLoC/Riverpod)**, and **Pixel-Perfect UI**.
+<p align="center">
+  <b>Software Engineering graduate</b> delivering production-grade iOS & Android apps. Expert in <b>Clean Architecture</b>, <b>State Management</b>, and <b>Scalable Mobile Solutions</b>.
+</p>
 
----
-
-
-### 📁 Technical Portfolio (Quick Links)
-* 💬 **[WhatsApp Clone](#)** - Real-time messaging & socket management.
-* 🛒 **[E-commerce App](#)** - Complex cart logic & secure checkout.
-* 🔐 **[Password Manager](#)** - Biometric auth & local encryption.
-
----
 ---
 
 <h3>📁 Technical Portfolio (Quick Links)</h3>
 <ul>
   <li>📸 <b><a href="https://github.com/saleem-15/instagram-clone" target="_blank">Social Media Architecture</a></b> - High-load media caching & offline-first architecture (Isar).</li>
   <li>💬 <b><a href="https://github.com/saleem-15/YOUR_WHATSAPP_REPO" target="_blank">Real-Time Messaging Engine</a></b> - Secure socket management & end-to-end state retention.</li>
-  <li>🛒 <b><a href="https://github.com/saleem-15/YOUR_ECOMMERCE_REPO" target="_blank">Scalable E-commerce App</a></b> - Complex cart state logic & secure checkout flows.</li>
-  <li>🔐 <b><a href="https://github.com/saleem-15/YOUR_PASSWORD_MGR_REPO" target="_blank">Local Password Manager</a></b> - Biometric auth & advanced local encryption.</li>
+  <li>📰 <b><a href="https://github.com/saleem-15/new_nuntium" target="_blank">Global News Platform (Nuntium)</a></b> - Strict Clean Architecture implementation featuring multi-language support (i18n), social authentication, robust dependency injection, and RESTful API integration.</li>
 </ul>
 
 ---
 
 ### 📈 Development Velocity
 <p align="center">
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=salee&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=saleem-15&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saleem-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salee/salee/output/github-snake-dark.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/salee/salee/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saleem-15/saleem-15/output/github-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/saleem-15/saleem-15/output/github-snake-dark.svg">
   </picture>
 </p>
 
 ---
 
 ### 📫 Let's Talk
-**[LinkedIn](YOUR_LINKEDIN_URL)** | **[Upwork](YOUR_UPWORK_URL)** | **[Email](mailto:YOUR_EMAIL)**
+<p align="center">
+  <a href="https://www.linkedin.com/in/saleem-mahdi-046760253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_UPWORK_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" />
+  </a>
+  <a href="YOUR_MOSTAQL_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Mostaql-2386c8?style=flat-square&logo=freelancer&logoColor=white" />
+  </a>
+  <a href="mailto:saleemmahdi10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,56,155&height=80&section=footer" />
