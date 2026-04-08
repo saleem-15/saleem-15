@@ -32,7 +32,7 @@
 
 ### 📈 Development Velocity
 <p align="center">
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=saleem-15&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=saleem-15&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saleem-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
@@ -49,13 +49,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/saleem-mahdi-046760253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_UPWORK_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" />
-  </a>
-  <a href="YOUR_MOSTAQL_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Mostaql-2386c8?style=flat-square&logo=freelancer&logoColor=white" />
-  </a>
+  </a
   <a href="mailto:saleemmahdi10@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
