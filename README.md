@@ -25,7 +25,7 @@
 <ul>
   <li>📸 <b><a href="https://github.com/saleem-15/instagram-clone" target="_blank">Social Media Architecture</a></b> - High-load media caching & offline-first architecture (Isar).</li>
   <li>💬 <b><a href="https://github.com/saleem-15/YOUR_WHATSAPP_REPO" target="_blank">Real-Time Messaging Engine</a></b> - Secure socket management & end-to-end state retention.</li>
-  <li>📰 <b><a href="https://github.com/saleem-15/new_nuntium" target="_blank">Global News Platform (Nuntium)</a></b> - Strict Clean Architecture implementation featuring multi-language support (i18n), social authentication, and RESTful API integration.</li>
+  <li>📰 <b><a href="https://github.com/saleem-15/nuntium" target="_blank">Global News Platform (Nuntium)</a></b> - Strict Clean Architecture implementation featuring multi-language support (i18n), social authentication, and RESTful API integration.</li>
 </ul>
 
 ---
