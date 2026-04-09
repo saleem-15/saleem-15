@@ -16,28 +16,29 @@
 ---
 
 <p align="center">
-  <b>Software Engineering graduate</b> delivering production-grade iOS & Android apps. Expert in <b>Clean Architecture</b>, <b>State Management</b>, and <b>Scalable Mobile Solutions</b>.
+  I'm a Flutter developer who builds with a focus on <b>Clean Architecture</b> and well-structured, maintainable code.<br/>
+  I believe how an app is built matters as much as how it looks.<br/>
+  <br/>
+  🔍 Currently open to <b>freelance projects</b> and <b>full-time roles</b>.
 </p>
 
 ---
 
-<h3>📁 Technical Portfolio (Quick Links)</h3>
+<h3>📁 Projects</h3>
 <ul>
-  <li>📸 <b><a href="https://github.com/saleem-15/instagram-clone" target="_blank">Social Media Architecture</a></b> - High-load media caching & offline-first architecture (Isar).</li>
-  <li>💬 <b><a href="https://github.com/saleem-15/YOUR_WHATSAPP_REPO" target="_blank">Real-Time Messaging Engine</a></b> - Secure socket management & end-to-end state retention.</li>
-  <li>📰 <b><a href="https://github.com/saleem-15/nuntium" target="_blank">Global News Platform (Nuntium)</a></b> - Strict Clean Architecture implementation featuring multi-language support (i18n), social authentication, and RESTful API integration.</li>
+  <li>📸 <b><a href="https://github.com/saleem-15/instagram-clone" target="_blank">Social Media App</a></b> — Offline-first architecture with high-load media caching using Isar.</li>
+  <li>📰 <b><a href="https://github.com/saleem-15/nuntium" target="_blank">Nuntium — News Platform</a></b> — Clean Architecture implementation with multi-language support, social auth, and REST API integration.</li>
 </ul>
 
 ---
 
-<h3>📈 Development Velocity</h3>
+<h3>📈 Activity</h3>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saleem-15&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
 </p>
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saleem-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saleem-15/saleem-15/output/github-snake-dark.svg">
@@ -47,7 +48,7 @@
 
 ---
 
-<h3>📫 Let's Talk</h3>
+<h3>📫 Let's Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/saleem-mahdi-046760253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
