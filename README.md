@@ -50,7 +50,7 @@
 
 <h3>📫 Let's Connect</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/saleem-mahdi-046760253/" target="_blank">
+  <a href="https://www.linkedin.com/in/saleem-mahdi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saleemmahdi10@gmail.com">
